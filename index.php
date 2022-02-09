@@ -7,6 +7,17 @@
     <title>Home Shop 01</title>
 </head>
 <body>
-    
+    <header>
+
+    </header>
+    <aside>
+
+    </aside>
+    <main>
+
+    </main>
+    <footer>
+        
+    </footer>
 </body>
 </html>
